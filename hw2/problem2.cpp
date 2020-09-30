@@ -1,3 +1,5 @@
+//Collatz Conjecture Algorithm
+
 #include <iostream>
 using namespace std;
 
