@@ -1,3 +1,14 @@
+"""
+Program to solve the following riddle:
+
+Bob, Johnand Smith make their living as carpenter, painter and plumber, though not  necessarily respectively. 
+The painter recently tried to get the carpenter to do some work for him, 
+but was told(heard) that the carpenter was out doing some remodeling for the plumber.
+The plumber makes more money than the painter does.
+Bob makes more money than John does.
+Smith has never heard of Bob.
+"""
+
 people = ['Bob', 'John', 'Smith']
 
 def distinct(L): # predicate? What does it do?
