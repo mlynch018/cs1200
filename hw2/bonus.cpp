@@ -1,3 +1,5 @@
+//Automates search for counter example to Collatz Conjecture
+
 #include <iostream>
 using namespace std;
 
